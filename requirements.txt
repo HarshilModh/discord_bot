@@ -1,5 +1,4 @@
 discord
-json
 aiohttp
 requests
 dnspython==1.16.0
